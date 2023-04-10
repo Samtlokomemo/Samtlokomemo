@@ -1,6 +1,6 @@
-- 👋 Opa eae eu sou o @Samtlokomemo e sou fundador da desenvolvedora Lazy Fox Studios
+- 👋 Opa eae eu sou o @Samtlokomemo e sou aspirante a gamedev.
 - 👀 E eu quero ser um gamedev
-- 🌱 Atualmente estou tentando aprender C# para usar o unity e também GML linguagem própria do programa Game Maker 2
+- 🌱 Atualmente estou tentando aprender python e c++ a fim de aumentar meu conhecimento.
 - 💞️ Quero colaborar com sistemas e engines de fácil acesso.
 - 📫 Para me achar em outros lugares recomendo principalmente o twitter: @Samtlokomemo
 
