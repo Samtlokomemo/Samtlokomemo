@@ -5,7 +5,7 @@
 
 - 👀 Estou no 4° período do curso de ciências da computação.
 - 🌱 Atualmente estou estudando Python, Java e estou estudando a game engines como Game Maker Studio 2 e Godot.
-- 📫 Para me achar em outros lugares recomendo principalmente o BlueSky: @Samtlokomemo.bsky.app
+- 📫 Para me achar em outros lugares recomendo principalmente o BlueSky: [@Samtlokomemo.bsky.app](https://bsky.app/profile/samtlokomemo.bsky.social)
 
 
 
