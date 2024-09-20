@@ -1,15 +1,13 @@
-## Eae, eu sou Samuel Rocha e esse é o meu perfil!
+# Olá, sou Samuel Rocha! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samtlokomemo&theme=aura_dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samtlokomemo&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Sobre mim
+Estudante de Ciências da Computação com interesse em desenvolvimento de jogos e gamificação. Apaixonado por transformar ideias em experiências interativas e engajadoras.
 
-- 👀 Estou no 4° período do curso de ciências da computação.
-- 🌱 Atualmente estou estudando Python, Java e estou estudando a game engines como Game Maker Studio 2 e Godot.
-- 📫 Para me achar em outros lugares recomendo principalmente o BlueSky: [@Samtlokomemo.bsky.app](https://bsky.app/profile/samtlokomemo.bsky.social)
+<div align="center">
+  
+  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-maranhao/)
+  [![BlueSky](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://bsky.app/profile/samtlokomemo.bsky.social)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel.maranhao.dev@gmail.com)
 
-
-
-<!---
-Samtlokomemo/Samtlokomemo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
