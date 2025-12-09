@@ -29,7 +29,7 @@ Minha especialidade é o controle de memória e performance que apenas o C++ pro
     * Uso de **CMake** para um build system cross-platform.
     * Separação estrita entre lógica de simulação e renderização (preparação para ECS).
     * Gerenciamento manual de recursos (RAII).
-* [Ver Código Fonte](https://github.com/Samtlokomemo/NOME-NOVO-DO-REPO)
+* [Ver Código Fonte](https://github.com/Samtlokomemo/raylib-farm-prototype)
 
 ---
 
